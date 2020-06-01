@@ -1,17 +1,4 @@
 # Monorepo of Deeplearning4j
-
-Welcome to the new monorepo of Deeplearning4j that contains the source code for all the following projects, in addition to the original repository of Deeplearning4j moved to [deeplearning4j](deeplearning4j):
-
- * https://github.com/eclipse/deeplearning4j/tree/master/libnd4j
- * https://github.com/eclipse/deeplearning4j/tree/master/nd4j
- * https://github.com/eclipse/deeplearning4j/tree/master/datavec
- * https://github.com/eclipse/deeplearning4j/tree/master/arbiter
- * https://github.com/eclipse/deeplearning4j/tree/master/nd4s
- * https://github.com/eclipse/deeplearning4j/tree/master/rl4j
- * https://github.com/eclipse/deeplearning4j/tree/master/scalnet
- * https://github.com/eclipse/deeplearning4j/tree/master/pydl4j
- * https://github.com/eclipse/deeplearning4j/tree/master/jumpy
- * https://github.com/eclipse/deeplearning4j/tree/master/pydatavec
  
 
 To build everything, we can use commands like
